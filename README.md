@@ -4,7 +4,7 @@
 
 I'm a Front End Web Developer who is making websites with 100% client satisfaction.   
 
-Skills: JS / HTML / CSS
+Skills: HTML / CSS / JS
 
 - 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning JavaScript 
@@ -12,8 +12,3 @@ Skills: JS / HTML / CSS
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurullahbss)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurullahbss)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nurullahbss&show_icons=true)  
-
