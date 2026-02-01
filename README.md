@@ -11,9 +11,9 @@ I'm a Front End Web Developer who is making responsive & user friendly websites 
 * Improving my JavaScript skills
 * Converting Complex PSD designs into clean code
 
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JavaScript 
-- 👯 I’m looking to collaborate on github 
+# How to reach me: 
+- Email: as440.nurullah@gmail.com
+- LinkedIn: https://www.linkedin.com/in/abu-sayadat-nurullah/
 
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://github.com/nurullahbss](https://www.linkedin.com/in/abu-sayadat-nurullah/))
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurullahbss)  
