@@ -18,4 +18,4 @@ I'm a Front End Web Developer who is making responsive & user friendly websites 
 
 - [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nurullahbss)
 
-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='facebook' height='40'>](https://www.facebook.com/abu.sayadat.5) 
+- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/abu.sayadat.5) 
